@@ -4,4 +4,13 @@ public class Pessoa {
     String sobrenome;
 
     Pessoa adao = new Pessoa();
+
+    //construtor
+    Pessoa() {
+
+    }
+
+    Pessoa(String _nome) {
+        this.nome = _nome;
+    }
 }
