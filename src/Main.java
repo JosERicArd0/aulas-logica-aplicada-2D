@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        Pessoa adão = new Pessoa();
+        Pessoa adao = new Pessoa();
 
         //declaração
         Pessoa qualquer;
