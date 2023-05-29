@@ -15,5 +15,19 @@ public class Main {
         //Declarar comportamento
         qualquer.falar();
         System.out.println(qualquer.falar("alto"));
+
+        //Criar mais objetos
+        Animal cao = new Animal();
+        Animal gato = new Animal();
+        Animal gato2 = new Animal();
+        Animal roedor;
+        roedor =new Animal();
+        Animal x;
+        x =new Animal();
+
+
+
+
+
     }
     }
