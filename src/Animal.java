@@ -1,13 +1,18 @@
 public class Animal {
     //atributos - características
     String nome;
-    String raça;
-
+    String raca;
+    double peso;
+    String tipoPelo;
+    String corOlhoDireito;
     public void andar(){
         //métodos - comportamento
-        System.out.println("andou");
+        System.out.println("andou!");
     }
+    public void comer(){
 
+        System.out.println("Comeu!");
+    }
     public String falar(String volume){
         return "falei" + volume;
     }

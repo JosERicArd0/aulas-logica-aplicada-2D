@@ -14,7 +14,7 @@ public class Main {
 
         //Declarar comportamento
         qualquer.falar();
-        System.out.println(qualquer.falar("alto"));
+        System.out.println(qualquer.falar(" alto"));
 
         //Criar mais objetos
         Animal cao = new Animal();
@@ -25,9 +25,12 @@ public class Main {
         Animal x;
         x =new Animal();
 
-
-
-
-
-    }
+        //Consultar dados do objeto cao
+        cao.nome = "Rufus";
+        System.out.println(cao.nome); //consulta
+        cao.comer();//chamada de método
+        Pessoa nova = new Pessoa();
+        nova.nome = "Tina";
+        nova.comer();
+        }
     }
