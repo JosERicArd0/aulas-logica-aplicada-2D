@@ -1,9 +1,10 @@
 Aula 22/06
 
 Classe - orientar, definição tipo algoritmo, passo a passo,programa, instruções
-Objeto
-Atributo
-Método
+Objeto - Instância da classe, recurso, funcionalidade
+Atributo - Características, descrição, formas do objeto, estilo tipagem
+Método - ação, comportamento, chamada de método
+Subprograma - algoritmo
 Construtor
 Encapsulamento
 Mod. de acesso
